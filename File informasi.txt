@@ -1,0 +1,6 @@
+
+Sebagai admin
+http://localhost/Car-Showroom-Management-System/admin/adminlogin.php
+
+username :admin 
+password : admin
