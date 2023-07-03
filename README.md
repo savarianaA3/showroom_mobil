@@ -1,3 +1,19 @@
+# Projek Akhir : Showroom Mobil
+
+```bash
+Nama Kelompok Team 5  : 
+1. 312110052 / SAVARIANA RIKA ANUGRAHAINI
+2. 312110163 / LUCKY ALAMSYAH
+3. 312110269 / FAUZAN SYAUQI
+4. 312110322 / CHOKY ANDRIANO
+5. 312110420 / VIYAN QOMARUDIN NOOR
+6. 312110581 / AHMAD DARMAWAN
+
+Kelas   : TI.21.A.3
+Tugas   : Project UAS
+```
+
+## Output
 # DBMS-Car-Showroom
 A Car Showroom Management System in which you can create a customer account and book cars and see your bookings.
 The admin can login and see current orders from different customers and add new cars to the inventory list.
